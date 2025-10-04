@@ -19,7 +19,7 @@ Provides actionable insights for HR decision-making, helping organizations under
 
 ---
 
-### **3️⃣ Learning Notes / Takeaways**
+### **Learning Notes / Takeaways**
 - Provide a section with **tips, insights, or points to remember**.  
 - Example:  
 ```markdown
